@@ -22,7 +22,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
     ![Image of Band Search](/images/concertSearch.png)
 
 
-2. Search for a song uzing the node-spotify-api to retrieve song information from the Spotify API. If no song is provided the program will search for "The Sign" by Ace of Base.
+2. Search for a song using the node-spotify-api to retrieve song information from the Spotify API. If no song is provided the program will search for "The Sign" by Ace of Base.
 
     * Artist(s)
     * The song's name
